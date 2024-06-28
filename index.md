@@ -82,4 +82,4 @@ now.
 
 * If you'd like us to delegate DNS for YourGroup.foodnotbombs.us to you, contact Jay Hannah above.
 	Currently we're redirecting YourGroup to the global homepage.
-* The source code for this website is [in github](https://github.com/jhannah/omaha.foodnotbombs.us).
+* The source code for this website is [in github](https://github.com/jhannah-netlify/omaha.foodnotbombs.us).
